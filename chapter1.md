@@ -6,6 +6,8 @@
 
 官网：[https://open.alipay.com/platform/home.htm](https://open.alipay.com/platform/home.htm)
 
+合作伙伴角色 : https://open.alipay.com/platform/accountSetting.htm
+
 # 三.在小蜜蜂智慧服务后台设置蚂蚁金服应用
 
 
