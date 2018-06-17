@@ -34,5 +34,15 @@
 
 ![](/assets/import12.png)
 
-![](/assets/import12.png)
+![](/assets/import12.png)最后就是设置应用公钥，支付宝公钥，和私钥了。
+
+![](/assets/import15.png)![](/assets/import19.png)
+
+官方文档参考：https://docs.open.alipay.com/291/106097  下载密钥生成工具。 生成应用公钥和私钥之后 。 把应用公钥复制。（这里生成的应用公钥和应用私钥很重要，下面还会用到）![](/assets/import17.png)把应用公钥填写到下框里保存！![](/assets/import21.png)这样应用相关配置就完成了。 查看![](/assets/import31.png)
+
+![](/assets/import22.png)这样我们了 应用公钥，应用私钥，支付宝公钥，appId，这四个信息。现在回到我们小蜂蜜智慧支付平台，把这些信息配置上就可以正常使用了。
+
+![](/assets/import32.png)
+
+
 
