@@ -4,9 +4,5 @@
 
 一. 为自己企业支付宝开通子账号
 
-可以参与这个开通子账号：  [https://jingyan.baidu.com/article/148a1921ab67d04d71c3b1a3.html](https://jingyan.baidu.com/article/148a1921ab67d04d71c3b1a3.html)
-
-
-
-
+可以参考这个开通子账号：  [https://jingyan.baidu.com/article/148a1921ab67d04d71c3b1a3.html](https://jingyan.baidu.com/article/148a1921ab67d04d71c3b1a3.html)
 
