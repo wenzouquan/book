@@ -32,7 +32,7 @@
 
 **授权回调地址：**[**https://service.boxphp.me/admin/home/auth**](https://service.boxphp.me/admin/home/auth)** **![](/assets/import12.png)
 
-![](/assets/import12.png)
+
 
 ![](/assets/import12.png)最后就是设置应用公钥，支付宝公钥，和私钥了。
 
