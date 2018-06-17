@@ -2,9 +2,11 @@
 
 钉钉群（支付宝扫一扫）：
 
+# 二.注册蚂蚁金服
 
 
-# 二.设置蚂蚁金服应用
+
+# 三.在小蜜蜂智慧服务后台设置蚂蚁金服应用
 
 官网：[https://open.alipay.com/platform/home.htm](https://open.alipay.com/platform/home.htm)
 
