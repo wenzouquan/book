@@ -6,11 +6,11 @@
 
 教育行业商户资质材料要求，公办：办学许可证、事业单位法人证书、法人身份证、银行开户许可证；私立：办学许可证、民办非企业证书、银行开户许可证、法人身份证。办学许可证、民办非经营内容：仅限于幼儿园、幼儿保育、幼儿园学前教育、及小学、初中、义务基础教育、高中。
 
-
-
 支付宝官网：[https://memberprod.alipay.com/account/reg/index.htm](https://memberprod.alipay.com/account/reg/index.htm)
 
 如果已注册支付宝，可以跳过这一步.
 
 选择企业支付宝![](/assets/import51.png)
+
+按提示完成注册，认证就可以了
 
