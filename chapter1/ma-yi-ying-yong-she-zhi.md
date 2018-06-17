@@ -26,5 +26,15 @@
 
 ![](/assets/import9.png)如果是中小学缴费应用，请添加如下功能
 
-![](/assets/import90.png)
+![](/assets/import90.png)添加完功能之后，给应用设置回调地址（应用信息）。 这里很重要，应用网关和授权回调地址一定不能填错，否则无法完成支付流程。（无论是中小学还是物业应用，这里的地址填写都一样）
+
+应用网关：https://service.boxphp.me/api/openapi/gateway
+
+授权回调地址：https://service.boxphp.me/admin/home/auth ![](/assets/import12.png)
+
+![](/assets/import12.png)
+
+![](/assets/import12.png)
+
+
 
