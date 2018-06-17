@@ -8,33 +8,15 @@
 
 **2.申请蚂蚁金服应用 **
 
-进入蚂蚁金服务的官网 ： https://open.alipay.com/platform/home.htm
+进入蚂蚁金服务的官网 ： [https://open.alipay.com/platform/home.htm](https://open.alipay.com/platform/home.htm)
 
-物业缴费相关： https://open.alipay.com/platform/banner.htm?page=tenement
+物业缴费相关： [https://open.alipay.com/platform/banner.htm?page=tenement](https://open.alipay.com/platform/banner.htm?page=tenement)
 
-中小学缴费相关：https://open.alipay.com/platform/banner.htm?page=edu
+中小学缴费相关：[https://open.alipay.com/platform/banner.htm?page=edu](https://open.alipay.com/platform/banner.htm?page=edu)
 
+进入官网后登陆 , 选择开发者中心，创建应用
 
-
-进入官网后登陆 , 选择开发者中心，创建应用 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![](/assets/import3.png)
 
 
 
