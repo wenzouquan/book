@@ -9,5 +9,5 @@
 * [协助物业完成入驻](xie-zhu-wu-4e1a-xue-xiao-wan-cheng-ru-zhu.md)
 * [协助物业公司管理小区](xie-zhu-wu-ye-gong-si-chuang-jian-xiao-qu.md)
 * [给员工开通子账号](gei-yuan-gong-kai-tong-zi-zhang-hao.md)
-* [测试自己应用是否生效](ping-tai-liu-cheng-ce-shi.md)
+* [测试平台是否生效](ping-tai-liu-cheng-ce-shi.md)
 
