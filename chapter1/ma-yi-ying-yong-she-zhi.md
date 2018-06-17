@@ -18,13 +18,13 @@
 
 ![](/assets/import3.png)
 
+![](/assets/import4.png)应用的名称和图标你可以根据自己的需要填写 （比如，物业相关的应用，填写XX物业缴费 。 中小学的应用可以写XX小中学费 ， 名称之后也可以改）。 ![](/assets/import6.png)
 
+创建完成之后，给应用添加能力。
 
+![](/assets/import7.png)如果是物业相关应用，请添加如下功能（这样才能正常使用）：
 
+![](/assets/import9.png)如果是中小学缴费应用，请添加如下功能
 
-
-
-
-
-
+![](/assets/import90.png)
 
