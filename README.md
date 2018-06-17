@@ -1,4 +1,8 @@
-# My Awesome Book1
+# 小蜜蜂智慧服务平台
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas. kb kb  ， 你好啊！
+ 小蜜蜂智慧平台专注于支付系统研开，与蚂蚁金服携手打造无现金社会。  为想做蚂蚁金服务商，而无开发能力的公司提供免费的筚技术，零成本高效开展业务，从而获得蚂蚁金服的反佣。 
+
+
+
+小蜜蜂智慧平台目前集成了蚂蚁金服中小学教育，物业缴费功能。 
 
