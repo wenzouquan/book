@@ -8,5 +8,5 @@
 
 ![](/assets/import44.png)协作费率设置成功之后，员工邀请的公司每笔交易，都可以在财务管理看到。
 
-![](/assets/import46.png)
+![](/assets/import46.png)![](/assets/import48.png)
 
